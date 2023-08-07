@@ -1,0 +1,47 @@
+{
+  "participate": "ПРИНЯТЬ УЧАСТИЕ",
+  "next": "ДАЛЕЕ",
+  "registration": {
+    "field" : {
+      "email": "EMAIL",
+      "phone": "ТЕЛЕФОН",
+      "name": "ИМЯ"
+    },
+    "placeholder": {
+      "email": "Введите ваш email ...",
+      "phone": "Введите ваш номер ...",
+      "name": "Введите ваше имя ..."
+    }
+  },
+  "verification": {
+    "title": "Мы отправили код верификации на ваш email:",
+    "placeholder": "Введите код верификации ...",
+    "confirm": "Подтвердить"
+  },
+  "songUpload": {
+    "field": "ПЕСНЯ",
+    "placeholder": "Выберите песню",
+    "confirm": "СТАТЬ ЗВЕЗДОЙ"
+  },
+  "congratulation": {
+    "title": "ПОЗДРАВЛЯЕМ!",
+    "main-text": "Спасибо за участие в конкурсе"
+  },
+  "error": {
+    "bad-gateway": {
+      "first": "Что то пошло не так",
+      "second": "Попробуйте еще раз позже"
+    },
+    "err-connection": "Какие то проблемы с подключением к интернету"
+  },
+  "admin": {
+    "song-toggle": {
+      "show": "Показать",
+      "hide": "Скрыть"
+    },
+    "rate-model": {
+      "title": "Оцените песню",
+      "confirm": "Оценить"
+    }
+  }
+}

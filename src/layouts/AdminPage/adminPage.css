@@ -1,0 +1,20 @@
+body {
+    background: #222222;
+}
+.admin-header-black {
+    background: #222222;
+}
+.admin-border {
+    border: 2px solid #D02771;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 2px #D02771,
+                inset 0 0 10px 2px #D02771;
+}
+.admin-text {
+    text-align: center;
+    color: white;
+    font-size: 1.4rem;
+}
+.admin-max-width {
+    max-width: 800px;
+}

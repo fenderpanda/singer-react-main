@@ -1,0 +1,100 @@
+.max-width-600 {
+    max-width: 600px;
+}
+
+.congratulation {
+    opacity: 0.95;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    border: 4px solid white;
+    background-color: #177BB4;
+    box-shadow: 0 0 20px 2px black;
+}
+
+.participate-button {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    border: 4px solid white;
+    background-color: #D02771;
+    box-shadow: 0 0 50px 15px white;
+}
+
+.participate-button:hover {
+    cursor: pointer;
+}
+
+.ff-opacity {
+    opacity: 0.95;
+}
+
+.ff-error-text-color {
+    color: #F9A28C;
+}
+
+.ff-field-one {
+    background-color: #4EBFE7;
+    color: white;
+    font-weight: bold;
+}
+
+.ff-field-two {
+    background-color: #20B0DA;
+    color: white;
+    font-weight: bold;
+}
+
+.ff-top-left-radius {
+    border-top-left-radius: 10px;
+}
+
+.ff-bottom-left-radius {
+    border-bottom-left-radius: 10px;
+}
+
+.ff-register-form-container {
+    border-radius: 15px;
+    border: 4px solid white;
+    background-color: #177BB4;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.form-control.ff-register-input {
+    background: transparent;
+    font-size: 1.2em;
+    color: white;
+    border-radius: 0;
+}
+
+.ff-register-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+
+.ff-register-input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #fff;
+}
+
+.ff-register-input::-ms-input-placeholder { /* Microsoft Edge */
+    color: #fff;
+}
+
+.form-control {
+    font-weight: 300;
+    padding: 12px 20px;
+}
+
+.form-control:focus {
+    border-color: white;
+    box-shadow: none;
+}
+
+.form-control.error {
+    border-width: 2px;
+    border-color: #FA7553;
+}

@@ -1,0 +1,47 @@
+{
+  "participate": "PARTICIPATE",
+  "next": "NEXT",
+  "registration": {
+    "field" : {
+      "email": "EMAIL",
+      "phone": "PHONE",
+      "name": "NAME"
+    },
+    "placeholder": {
+      "email": "Enter your email ...",
+      "phone": "Enter your phone number ...",
+      "name": "Enter your name ..."
+    }
+  },
+  "verification": {
+    "title": "We sent a verification code to your email",
+    "placeholder": "Enter your verification code ...",
+    "confirm": "Confirm"
+  },
+  "songUpload": {
+    "field": "SONG",
+    "placeholder": "Choose a song",
+    "confirm": "BECOME A STAR"
+  },
+  "congratulation": {
+    "title": "CONGRATULATIONS!",
+    "main-text": "Thank you for the participation"
+  },
+  "error": {
+    "bad-gateway": {
+      "first": "Something went wrong",
+      "second": "Try it later"
+    },
+    "err-connection": "Some problems with internet connection"
+  },
+  "admin": {
+    "song-toggle": {
+      "show": "Show",
+      "hide": "Hide"
+    },
+    "rate-model": {
+      "title": "Rate the song",
+      "confirm": "Rate"
+    }
+  }
+}

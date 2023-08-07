@@ -1,0 +1,23 @@
+.btn-toggle {
+    color: #3AB7DA;
+    border-radius: 5px;
+    border: 2px solid #3AB7DA;
+}
+.btn-toggle:hover {
+    cursor: pointer;
+    color: #61dafb;
+    border-color: #61dafb;
+    text-shadow: 0 0 10px #ffffff;
+    box-shadow: 0 0 5px 2px #4EC0DF,
+                inset 0 0 5px 2px #4EC0DF;
+}
+.btn-toggle-mobile {
+    color: #3AB7DA;
+    border-radius: 5px;
+    border: 2px solid #3AB7DA;
+}
+.neon {
+    font-size: 1.1em;
+    color: #61dafb;
+    text-shadow: 0 0 10px #ffffff;
+}

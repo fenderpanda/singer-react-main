@@ -1,0 +1,10 @@
+.star-rating-main {
+    display: inline-block;
+    position: relative;
+}
+
+.star-rating-child {
+    position: absolute;
+    left: 0;
+    top: 0;
+}

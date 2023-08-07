@@ -1,0 +1,10 @@
+.main-error {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    border: 4px solid white;
+    background-color: #D02771;
+    box-shadow: 0 0 50px 15px white;
+}
